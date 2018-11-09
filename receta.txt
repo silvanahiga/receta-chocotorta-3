@@ -3,7 +3,6 @@ Ingredientes
 * Chocolinas de celíacos
 * Dulce de leche
 * Queso crema
-* Salsa de chocolate
 * Café
 * Frutillas fileteadas
 * Kinder bueno (para decorar)
@@ -14,3 +13,4 @@ Ingredientes
 Pasos
 
 A definir
+Salsa de chocolate
